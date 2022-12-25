@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Maddoman
-- 👀 I’m interested in coding, ethical...
+- 👋 Hi, I’m Maddoman
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning web design
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me currently not.
