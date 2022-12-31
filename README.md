@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web design
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me currently not.
+- 📫 How to reach me?.. you will when needed!
 
 <!---
 Maddoman/Maddoman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
